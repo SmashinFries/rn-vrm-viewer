@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import { CheckBox } from 'react-native-web';
 import { VRM, VRMExpressionPresetName, VRMLoaderPlugin, VRMMeta, VRMUtils } from '@pixiv/three-vrm';
 import { ExpoWebGLRenderingContext, GLView } from 'expo-gl';
 import { Renderer } from 'expo-three';
