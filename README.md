@@ -1,5 +1,7 @@
 # VRM React Native - Proof of Concept
 
+✨ 11/24/2023 - **I've finally managed to get VRMs loaded on android. Working on a new demo!** ✨
+
 ![preview](./preview.PNG)
 
 ## Overview
